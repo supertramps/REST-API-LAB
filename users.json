@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "name": "Alex",
+    "eyeColor": "Blue",
+    "age": 60
+  },
+  {
+    "id": 3,
+    "name": "Michelle",
+    "eyeColor": "Hazel",
+    "age": "43"
+  },
+  {
+    "id": 4,
+    "name": "Jakob",
+    "eyeColor": "Hazel",
+    "age": "58"
+  },
+  {
+    "id": 5,
+    "name": "Simone",
+    "eyeColor": "Brown",
+    "age": "34"
+  },
+  {
+    "id": 6,
+    "name": "Jimmy",
+    "eyeColor": "Green",
+    "age": "26"
+  },
+  {
+    "id": 7,
+    "name": "Gordon",
+    "eyeColor": "Hazel",
+    "age": 2
+  }
+]

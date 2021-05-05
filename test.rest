@@ -1,0 +1,40 @@
+
+// get all users
+GET http://localhost:3000/api/users
+###
+
+// get specific user
+GET http://localhost:3000/api/users/4
+###
+
+
+// create new user
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+    "name": "Micke",
+    "eyeColor": "Green",
+    "age": 64
+}
+###
+
+// update a user
+PUT http://localhost:3000/api/users/2
+Content-Type: application/json
+
+{
+    "name": "Alex",
+    "age": 60,
+    "eyeColor": "Blue"
+    
+    
+    
+}
+
+###
+
+// delete a user
+DELETE http://localhost:3000/api/users/6
+
+###
